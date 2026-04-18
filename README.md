@@ -32,7 +32,7 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 	<tr>
 		<td width="50%" valign="top">
 			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
-				<a href="https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR"><strong>FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)</strong></a><br/>
+				<a href="https://github.com/dexterhere04/FloorPlan-Pipeline"><strong>FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)</strong></a><br/>
 				<img src="https://img.shields.io/badge/Python-CV%2FNLP-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CV NLP"/>
 				<p>End-to-end floor-plan system that interprets blueprint inputs and natural language to generate 2D and 3D layouts.</p>
 				<p><strong>Objective:</strong> Bridge CV parsing, geometry reconstruction, and interactive spatial outputs in one pipeline.</p>
