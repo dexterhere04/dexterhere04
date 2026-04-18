@@ -8,27 +8,39 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 - Working across TypeScript/React ecosystems, Python-based AI pipelines, and embedded/IoT experimentation.
 - Interested in developer tools, visualization systems, and applied machine learning.
 
-## Featured Projects
+## Featured Projects (Ranked by Awesomeness)
 
-- [Code-Islands-3d](https://github.com/dexterhere04/Code-Islands-3d)  
-  A 3D repository-exploration platform that converts repository metadata and structure into navigable island-style worlds.  
-  **Technical focus:** TypeScript rendering pipeline, interactive scene graph design, camera/navigation controls, and data-driven visual encoding of repository entities.
+1. [Code-Islands-3d](https://github.com/dexterhere04/Code-Islands-3d)  
+   A 3D repository-exploration platform that converts repository metadata and structure into navigable island-style worlds.  
+   **Technical focus:** TypeScript rendering pipeline, interactive scene graph design, camera/navigation controls, and data-driven visual encoding of repository entities.
 
-- [Repo-Write-CMS](https://github.com/dexterhere04/Repo-Write-CMS)  
-  A headless, AI-assisted content system that transforms repository context (commits, architecture, and project intent) into structured, SEO-ready publication workflows.  
-  **Technical focus:** TypeScript full-stack architecture, content modeling, automated generation pipelines, metadata optimization, and publish-ready editorial flow.
+2. [Repo-Write-CMS](https://github.com/dexterhere04/Repo-Write-CMS)  
+   A headless, AI-assisted content system that transforms repository context (commits, architecture, and project intent) into structured, SEO-ready publication workflows.  
+   **Technical focus:** TypeScript full-stack architecture, content modeling, automated generation pipelines, metadata optimization, and publish-ready editorial flow.
 
-- [FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR)  
-  An end-to-end intelligent floor-plan pipeline that interprets 2D blueprint inputs and produces interactive 3D spatial outputs with natural-language interaction support.  
-  **Technical focus:** CV/NLP-assisted parsing, geometry reconstruction, Python processing pipeline, and real-time interactive visualization integration.
+3. [FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR)  
+   An end-to-end intelligent floor-plan pipeline that interprets 2D blueprint inputs and produces interactive 3D spatial outputs with natural-language interaction support.  
+   **Technical focus:** CV/NLP-assisted parsing, geometry reconstruction, Python processing pipeline, and real-time interactive visualization integration.
 
-- [Stress_Analyser_app](https://github.com/dexterhere04/Stress_Analyser_app)  
-  A privacy-first Flutter application for behavioral stress analysis that prioritizes on-device workflows and low-latency user feedback loops.  
-  **Technical focus:** Dart/Flutter mobile architecture, local-first processing, UX-focused data presentation, and resilient app-state handling for offline reliability.
+4. [Stress_Analyser_app](https://github.com/dexterhere04/Stress_Analyser_app)  
+   A privacy-first Flutter application for behavioral stress analysis that prioritizes on-device workflows and low-latency user feedback loops.  
+   **Technical focus:** Dart/Flutter mobile architecture, local-first processing, UX-focused data presentation, and resilient app-state handling for offline reliability.
 
-- [ESP-Peer-to-Peer-Communication](https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication)  
-  Embedded communication experiments for ESP devices covering direct peer messaging patterns for both terminal and web-driven interaction modes.  
-  **Technical focus:** ESP firmware communication protocols, constrained-device networking, serial/web interface bridges, and reliability tuning for low-resource environments.
+5. [ESP-Peer-to-Peer-Communication](https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication)  
+   Embedded communication experiments for ESP devices covering direct peer messaging patterns for both terminal and web-driven interaction modes.  
+   **Technical focus:** ESP firmware communication protocols, constrained-device networking, serial/web interface bridges, and reliability tuning for low-resource environments.
+
+6. [Repo-Write-Frontend](https://github.com/dexterhere04/Repo-Write-Frontend)  
+   Frontend application for Repo-Write focused on managing generated technical blogs and CMS workflows with a clean publishing interface.  
+   **Technical focus:** React UI architecture, content dashboard UX, API-driven integration, and authoring workflow optimization.
+
+7. [day-night-wallpaper-gnome-wayland](https://github.com/dexterhere04/day-night-wallpaper-gnome-wayland)  
+   A GNOME extension that automatically switches wallpapers by time of day for Wayland desktop environments.  
+   **Technical focus:** GNOME extension lifecycle handling, desktop automation logic, and user-level Linux customization.
+
+8. [ESP_Mesh_Communication](https://github.com/dexterhere04/ESP_Mesh_Communication)  
+   Mesh-style ESP communication experiments combining short-range and long-range connectivity strategies.  
+   **Technical focus:** ESP-NOW/Lora communication patterns, embedded networking topology, and constrained-device reliability tuning.
 
 ## Tech Stack
 
