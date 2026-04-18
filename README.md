@@ -40,7 +40,7 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 
 8. [ESP_Mesh_Communication](https://github.com/dexterhere04/ESP_Mesh_Communication)  
    Mesh-style ESP communication experiments combining short-range and long-range connectivity strategies.  
-   **Technical focus:** ESP-NOW/Lora communication patterns, embedded networking topology, and constrained-device reliability tuning.
+   **Technical focus:** ESP-NOW/LoRa communication patterns, embedded networking topology, and constrained-device reliability tuning.
 
 ## Tech Stack
 
