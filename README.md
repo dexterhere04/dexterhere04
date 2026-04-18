@@ -10,41 +10,98 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 
 ## Featured Projects
 
-- [Code-Islands-3d](https://github.com/dexterhere04/Code-Islands-3d)  
-	A 3D repository-exploration platform that turns repository metadata into an explorable world model with islands, structures, and navigable paths.  
-	**objective:** TypeScript scene orchestration, data-driven entity mapping, interactive camera controls, and visual encoding of modules, files, and functions.
-
-- [Repo-Write-CMS](https://github.com/dexterhere04/Repo-Write-CMS)  
-	A headless, AI-assisted content system that converts repository history and architecture into structured, SEO-ready publishing workflows.  
-	**objective** TypeScript full-stack architecture, content modeling, generation pipelines, metadata enrichment, and publish orchestration.
-
-- [FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR)  
-	An end-to-end floor-plan pipeline that interprets blueprint inputs and natural-language prompts to produce 2D and 3D spatial outputs.  
-	**objective:** CV/NLP-assisted parsing, geometric reconstruction, Python processing stages, and interactive visualization output.
-
-- [Stress_Analyser_app](https://github.com/dexterhere04/Stress_Analyser_app)  
-	A privacy-first Flutter application that analyzes behavioral signals on device and surfaces stress indicators through a lightweight mobile UI.  
-	**objective:** Dart/Flutter architecture, local-first inference, notification and typing-signal processing, and offline-safe state management.
-
-- [ESP-Peer-to-Peer-Communication](https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication)  
-	Embedded communication experiments for ESP devices with direct peer messaging across terminal and web-driven interfaces.  
-	**objective:** ESP firmware protocols, constrained-device networking, serial/web bridges, and reliability tuning for low-resource links.
-
-- [Travel_AI_RAG](https://github.com/dexterhere04/Travel_AI_RAG)  
-	A retrieval-augmented travel assistant that combines curated destination knowledge, structured prompt assembly, and LLM response generation to produce context-aware recommendations.  
-	**objective:** RAG pipeline design, source grounding, retrieval orchestration, and prompt-driven travel planning workflows.
-
-- [grid-pulse-viz](https://github.com/dexterhere04/grid-pulse-viz)  
-	A compact visualization experiment for rendering pulse-like data streams into grid-based motion patterns and animated visual feedback.  
-	**objective:** Data-to-visual mapping, lightweight animation primitives, stream-oriented rendering logic, and experimental information design.
-
-- [appdev_ai](https://github.com/dexterhere04/appdev_ai)  
-	A private TypeScript-based AI project focused on assistant-driven workflows, application integration, and reusable automation patterns.  
-	**objective:** Build an assistant-centered application layer that can coordinate workflows, integrate with product surfaces, and support iterative AI feature development.
-	
-- [Finance_prediction](https://github.com/dexterhere04/Finance_prediction)  
-	A private finance forecasting project centered on predictive modeling, feature analysis, and evaluation workflows for prediction quality.  
-	**objective:** Develop a forecasting pipeline that can compare modeling approaches, measure performance, and support data-driven financial prediction experiments.
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/Code-Islands-3d"><strong>Code-Islands-3d</strong></a><br/>
+				<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+				<p>3D repository-exploration platform that transforms repo metadata into navigable island-style worlds.</p>
+				<p><strong>Objective:</strong> Build interactive codebase visualization using scene graphs, camera systems, and data-driven world mapping.</p>
+			</div>
+		</td>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/Repo-Write-CMS"><strong>Repo-Write-CMS</strong></a><br/>
+				<img src="https://img.shields.io/badge/TypeScript_Full--Stack-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Full Stack"/>
+				<p>AI-assisted headless CMS that converts repository history and architecture into structured publication workflows.</p>
+				<p><strong>Objective:</strong> Automate high-quality, SEO-ready technical content generation from live codebase context.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR"><strong>FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)</strong></a><br/>
+				<img src="https://img.shields.io/badge/Python-CV%2FNLP-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CV NLP"/>
+				<p>End-to-end floor-plan system that interprets blueprint inputs and natural language to generate 2D and 3D layouts.</p>
+				<p><strong>Objective:</strong> Bridge CV parsing, geometry reconstruction, and interactive spatial outputs in one pipeline.</p>
+			</div>
+		</td>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/Stress_Analyser_app"><strong>Stress_Analyser_app</strong></a><br/>
+				<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+				<p>Privacy-first mobile app that analyzes behavioral signals on-device to surface meaningful stress indicators.</p>
+				<p><strong>Objective:</strong> Deliver local-first stress analytics with low-latency UX and resilient offline behavior.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication"><strong>ESP-Peer-to-Peer-Communication</strong></a><br/>
+				<img src="https://img.shields.io/badge/ESP32-C%2B%2B-00599C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 C++"/>
+				<p>ESP communication experiments with direct peer messaging across terminal and web-driven interfaces.</p>
+				<p><strong>Objective:</strong> Validate reliable low-resource networking patterns and practical device-to-device communication flows.</p>
+			</div>
+		</td>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/Travel_AI_RAG"><strong>Travel_AI_RAG</strong></a><br/>
+				<img src="https://img.shields.io/badge/RAG-Travel_Assistant-121212?style=flat-square&logo=openai&logoColor=white" alt="RAG Travel Assistant"/>
+				<p>Retrieval-augmented travel assistant combining curated destination sources with grounded LLM responses.</p>
+				<p><strong>Objective:</strong> Build trustworthy travel recommendations using retrieval orchestration and prompt-driven planning.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/grid-pulse-viz"><strong>grid-pulse-viz</strong></a><br/>
+				<img src="https://img.shields.io/badge/TypeScript-Visualization-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Visualization"/>
+				<p>Visualization project for turning pulse-like data streams into compact animated grid patterns.</p>
+				<p><strong>Objective:</strong> Explore lightweight rendering logic and clear data-to-visual mapping for dynamic streams.</p>
+			</div>
+		</td>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/appdev_ai"><strong>appdev_ai (Private)</strong></a><br/>
+				<img src="https://img.shields.io/badge/Private-AI_Product_Engineering-6f42c1?style=flat-square&logo=github&logoColor=white" alt="Private AI Product Engineering"/>
+				<p>Private TypeScript AI application workspace focused on assistant-driven automation and product integration.</p>
+				<p><strong>Objective:</strong> Design reusable assistant capabilities that can be embedded into real product workflows.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<a href="https://github.com/dexterhere04/Finance_prediction"><strong>Finance_prediction (Private)</strong></a><br/>
+				<img src="https://img.shields.io/badge/Private-Finance_Forecasting-0b7285?style=flat-square&logo=python&logoColor=white" alt="Private Finance Forecasting"/>
+				<p>Private finance prediction project centered on modeling, feature analysis, and robust evaluation workflows.</p>
+				<p><strong>Objective:</strong> Compare forecasting approaches and build a reproducible pipeline for data-driven prediction quality.</p>
+			</div>
+		</td>
+		<td width="50%" valign="top">
+			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
+				<strong>More Projects</strong><br/>
+				<img src="https://img.shields.io/badge/Portfolio-GitHub_Repository_Index-24292f?style=flat-square&logo=github&logoColor=white" alt="Portfolio Index"/>
+				<p>Additional projects are continuously refined and promoted here as they mature into stronger portfolio artifacts.</p>
+				<p><strong>Objective:</strong> Keep the featured section focused, while expanding depth and quality over time.</p>
+			</div>
+		</td>
+	</tr>
+</table>
 
 ## Tech Stack
 
