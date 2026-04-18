@@ -165,7 +165,7 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 </p>
 
 <p align="center">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhere04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+	<img style="width:100%; max-width:100%; height:185px; min-height:185px; max-height:185px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhere04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ## GitHub Stats
