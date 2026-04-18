@@ -68,10 +68,10 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 	<tr>
 		<td width="50%" valign="top">
 			<div style="border:1px solid rgba(128,128,128,0.35); border-radius:14px; padding:14px; margin:6px 0;">
-				<a href="https://github.com/dexterhere04/grid-pulse-viz"><strong>grid-pulse-viz</strong></a><br/>
-				<img src="https://img.shields.io/badge/TypeScript-Visualization-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Visualization"/>
-				<p>Visualization project for turning pulse-like data streams into compact animated grid patterns.</p>
-				<p><strong>Objective:</strong> Explore lightweight rendering logic and clear data-to-visual mapping for dynamic streams.</p>
+				<a href="https://github.com/Gray-Rice/PulseWatch"><strong>PulseWatch</strong></a><br/>
+				<img src="https://img.shields.io/badge/Python-Telemetry_%26_IDS-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Telemetry and IDS"/>
+				<p>Lightweight telemetry and intrusion-detection system with centralized device management and monitoring workflows.</p>
+				<p><strong>Objective:</strong> Build a practical monitoring stack that unifies device telemetry, anomaly signaling, and operational visibility in one control layer.</p>
 			</div>
 		</td>
 		<td width="50%" valign="top">
