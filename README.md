@@ -179,7 +179,7 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 	</tr>
 	<tr>
 		<td colspan="2" align="center">
-			<img src="https://raw.githubusercontent.com/dexterhere04/dexterhere04/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+			<img src="https://raw.githubusercontent.com/dexterhere04/dexterhere04/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 		</td>
 	</tr>
 </table>
