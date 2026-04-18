@@ -12,7 +12,7 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 
 - [Code-Islands-3d](https://github.com/dexterhere04/Code-Islands-3d) — Visualizes GitHub repositories as interactive 3D islands and structures.
 - [Repo-Write-CMS](https://github.com/dexterhere04/Repo-Write-CMS) — Headless CMS + SEO workflow to generate content from repository history and architecture.
-- [D2_23BCE5075_Tharun_SDR](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR) — Transforms 2D blueprints into interactive 3D floor plans with natural-language support.
+- [FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR) — Transforms 2D blueprints into interactive 3D floor plans with natural-language support.
 - [Stress_Analyser_app](https://github.com/dexterhere04/Stress_Analyser_app) — Privacy-first Flutter app for digital stress insights using local processing.
 - [ESP-Peer-to-Peer-Communication](https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication) — ESP-based peer communication experiments for CLI/chat and web scenarios.
 
