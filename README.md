@@ -164,16 +164,20 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<p align="center">
-	<img style="width:100%; max-width:100%; height:185px; min-height:185px; max-height:185px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhere04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## GitHub Stats
 
-<p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=dexterhere04&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-	<img height="165" src="https://streak-stats.demolab.com?user=dexterhere04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<table width="100%">
+	<tr>
+		<td colspan="2" align="center">
+			<img style="width:100%; max-width:100%; height:185px; min-height:185px; max-height:185px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterhere04&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Top languages" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="50%">
+			<img height="175" src="https://streak-stats.demolab.com?user=dexterhere04&theme=onedark&hide_border=true" alt="GitHub streak" />
+		</td>
+	</tr>
+</table>
 
 ## Contact
 
