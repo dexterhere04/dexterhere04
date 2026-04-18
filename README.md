@@ -11,24 +11,40 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 ## Featured Projects
 
 - [Code-Islands-3d](https://github.com/dexterhere04/Code-Islands-3d)  
-  A 3D repository-exploration platform that converts repository metadata and structure into navigable island-style worlds.  
-  **Technical focus:** TypeScript rendering pipeline, interactive scene graph design, camera/navigation controls, and data-driven visual encoding of repository entities.
+	A 3D repository-exploration platform that turns repository metadata into an explorable world model with islands, structures, and navigable paths.  
+	**objective:** TypeScript scene orchestration, data-driven entity mapping, interactive camera controls, and visual encoding of modules, files, and functions.
 
 - [Repo-Write-CMS](https://github.com/dexterhere04/Repo-Write-CMS)  
-  A headless, AI-assisted content system that transforms repository context (commits, architecture, and project intent) into structured, SEO-ready publication workflows.  
-  **Technical focus:** TypeScript full-stack architecture, content modeling, automated generation pipelines, metadata optimization, and publish-ready editorial flow.
+	A headless, AI-assisted content system that converts repository history and architecture into structured, SEO-ready publishing workflows.  
+	**objective** TypeScript full-stack architecture, content modeling, generation pipelines, metadata enrichment, and publish orchestration.
 
 - [FloorPlan-Pipeline (D2_23BCE5075_Tharun_SDR)](https://github.com/dexterhere04/D2_23BCE5075_Tharun_SDR)  
-  An end-to-end intelligent floor-plan pipeline that interprets 2D blueprint inputs and produces interactive 3D spatial outputs with natural-language interaction support.  
-  **Technical focus:** CV/NLP-assisted parsing, geometry reconstruction, Python processing pipeline, and real-time interactive visualization integration.
+	An end-to-end floor-plan pipeline that interprets blueprint inputs and natural-language prompts to produce 2D and 3D spatial outputs.  
+	**objective:** CV/NLP-assisted parsing, geometric reconstruction, Python processing stages, and interactive visualization output.
 
 - [Stress_Analyser_app](https://github.com/dexterhere04/Stress_Analyser_app)  
-  A privacy-first Flutter application for behavioral stress analysis that prioritizes on-device workflows and low-latency user feedback loops.  
-  **Technical focus:** Dart/Flutter mobile architecture, local-first processing, UX-focused data presentation, and resilient app-state handling for offline reliability.
+	A privacy-first Flutter application that analyzes behavioral signals on device and surfaces stress indicators through a lightweight mobile UI.  
+	**objective:** Dart/Flutter architecture, local-first inference, notification and typing-signal processing, and offline-safe state management.
 
 - [ESP-Peer-to-Peer-Communication](https://github.com/dexterhere04/ESP-Peer-to-Peer-Communication)  
-  Embedded communication experiments for ESP devices covering direct peer messaging patterns for both terminal and web-driven interaction modes.  
-  **Technical focus:** ESP firmware communication protocols, constrained-device networking, serial/web interface bridges, and reliability tuning for low-resource environments.
+	Embedded communication experiments for ESP devices with direct peer messaging across terminal and web-driven interfaces.  
+	**objective:** ESP firmware protocols, constrained-device networking, serial/web bridges, and reliability tuning for low-resource links.
+
+- [Travel_AI_RAG](https://github.com/dexterhere04/Travel_AI_RAG)  
+	A retrieval-augmented travel assistant that combines curated destination knowledge, structured prompt assembly, and LLM response generation to produce context-aware recommendations.  
+	**objective:** RAG pipeline design, source grounding, retrieval orchestration, and prompt-driven travel planning workflows.
+
+- [grid-pulse-viz](https://github.com/dexterhere04/grid-pulse-viz)  
+	A compact visualization experiment for rendering pulse-like data streams into grid-based motion patterns and animated visual feedback.  
+	**objective:** Data-to-visual mapping, lightweight animation primitives, stream-oriented rendering logic, and experimental information design.
+
+- [appdev_ai](https://github.com/dexterhere04/appdev_ai)  
+	A private TypeScript-based AI project focused on assistant-driven workflows, application integration, and reusable automation patterns.  
+	**objective:** Build an assistant-centered application layer that can coordinate workflows, integrate with product surfaces, and support iterative AI feature development.
+	
+- [Finance_prediction](https://github.com/dexterhere04/Finance_prediction)  
+	A private finance forecasting project centered on predictive modeling, feature analysis, and evaluation workflows for prediction quality.  
+	**objective:** Develop a forecasting pipeline that can compare modeling approaches, measure performance, and support data-driven financial prediction experiments.
 
 ## Tech Stack
 
