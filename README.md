@@ -45,4 +45,3 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 ## Contact
 
 - Email: [sdrtharun@gmail.com](mailto:sdrtharun@gmail.com)
-- Discord: [dexter243](https://discord.gg/dexter243)
