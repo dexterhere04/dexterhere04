@@ -177,6 +177,11 @@ Full-stack and AI-focused builder shipping practical products across web, 3D wor
 			<img height="175" src="https://streak-stats.demolab.com?user=dexterhere04&theme=onedark&hide_border=true" alt="GitHub streak" />
 		</td>
 	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			<img src="https://raw.githubusercontent.com/dexterhere04/dexterhere04/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+		</td>
+	</tr>
 </table>
 
 ## Contact
