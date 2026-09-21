@@ -7,10 +7,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=dexterhere04&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/dexterhere04?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/dexterhere04?label=Stars&style=flat-square&color=0e75b6&logo=github" alt="Stars" />
 <img src="https://img.shields.io/github/last-commit/dexterhere04/dexterhere04?label=Last%20Update&style=flat-square&color=8a2be2&logo=github" alt="Last update" />
 
 </div>
@@ -115,6 +111,8 @@
 	<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
+---
+
 <p align="center">
 	<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -129,6 +127,7 @@
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
 </p>
 
+---
 <p align="center">
 	<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
 	<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
@@ -141,6 +140,7 @@
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
+---
 <p align="center">
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
